@@ -8,6 +8,6 @@ public class TestCubeSctpt : MonoBehaviour
     void Start()
     {
 
-        Debug.Log("TestDebug");
+        //Debug.Log("TestDebug"); //test
     }
 }
